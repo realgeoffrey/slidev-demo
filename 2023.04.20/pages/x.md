@@ -1,0 +1,5 @@
+---
+layout: iframe
+url: https://www.typescriptlang.org/zh/play?ssl=17&ssc=34&pln=1&pc=1#code/PTAEBcE8AcFNQJYGdRPAJwQOwOYCg8o5QAjAQyQQGNQBeUAQQHcyFxYATAHgAV0B7ALbJYXNJlwA+SQG4CICDHjJUGbPiLx0sKgFd0lAG7x6zVu258hI3gOFJR49dNnywmxChL9+AG1hkWIRKoFj8WAAqABawWADyJABWdIwsbJxc3n4BWK54Ch4qTrigAD6gACJk7MHEulgI4SimaRZcVexloFb2oj02xTgucrXwAGJkANaw-Q4pAN4QMVgAXKAAFACUdJKqEjigAL4jBSEqWLDG6KOgAGZTJqnmGRPTs7CuQA
+preload: false
+---
